@@ -3,7 +3,6 @@ aeiou
 ARGV
 bdc
 cbeaff
-chmod
 cmp
 Cwd
 debian
@@ -57,6 +56,7 @@ uname
 unicode
 url
 usr
+vnd
 whitelist
 woord
 wordlist
