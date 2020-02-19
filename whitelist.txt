@@ -1,5 +1,6 @@
 aarch
 aeiou
+api
 ARGV
 bdc
 cbeaff
@@ -50,6 +51,7 @@ STDERR
 substr
 svg
 symlinks
+SZ
 tmp
 ubuntu
 uname
