@@ -5,6 +5,7 @@ ARGV
 bdc
 cbeaff
 cmp
+config
 Cwd
 debian
 dest
