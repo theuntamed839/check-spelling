@@ -35,6 +35,7 @@ misspellled
 mkdir
 noarch
 noreply
+oneline
 perl
 PIPESTATUS
 pne
