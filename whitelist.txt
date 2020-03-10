@@ -4,6 +4,7 @@ api
 ARGV
 bdc
 cbeaff
+chmod
 cmp
 config
 cron
@@ -34,6 +35,7 @@ linux
 metadata
 misspellled
 mkdir
+mktemp
 noarch
 noreply
 oneline
@@ -41,6 +43,7 @@ perl
 PIPESTATUS
 pne
 qq
+qw
 README
 regexp
 rpmfind
